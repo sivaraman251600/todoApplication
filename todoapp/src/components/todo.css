@@ -1,0 +1,44 @@
+.container{
+    border: 2px solid rgb(219, 157, 157);
+    height: 600px;
+    width: 600px;
+    position: relative;
+    left: 400px;
+    top: 100px;
+    background-color: #8adfda;
+}
+
+.container form{
+    position: relative;
+    top: 50px;
+}
+
+.container input{
+    width: 300px;
+}
+
+.container button{
+    width: 120px;
+    background-color: #1c19d8;
+    color: rgb(247, 247, 247);
+}
+
+.todo{
+    color: rgb(24, 27, 209);
+    position: relative;
+    top: 90px;
+    left: 60px;
+    width: 500px;
+    height: 50px;
+    border: 1px solid yellowgreen;
+    text-align: left;
+    padding: 5px 5px;
+    background-color: rgb(211, 185, 180);
+}
+
+.todo i{
+    color: tomato;
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
